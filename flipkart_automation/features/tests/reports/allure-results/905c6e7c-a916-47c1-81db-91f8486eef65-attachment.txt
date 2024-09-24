@@ -1,0 +1,17 @@
+Items are----2
+expected_items Items are----2
+Total price Original 28644
+First time price 28644
+Total price Actual 28644
+cart_items_price list[<selenium.webdriver.remote.webelement.WebElement (session="c8fd294823b543d27e75f2854ff12f7f", element="f.B6D05C0B2937BDF7CC1BC8C65019851E.d.ED17DEA2472E0D8B1A6924FFA3E0110B.e.142")>, <selenium.webdriver.remote.webelement.WebElement (session="c8fd294823b543d27e75f2854ff12f7f", element="f.B6D05C0B2937BDF7CC1BC8C65019851E.d.ED17DEA2472E0D8B1A6924FFA3E0110B.e.143")>, <selenium.webdriver.remote.webelement.WebElement (session="c8fd294823b543d27e75f2854ff12f7f", element="f.B6D05C0B2937BDF7CC1BC8C65019851E.d.ED17DEA2472E0D8B1A6924FFA3E0110B.e.144")>]
+price_string ₹645
+price_string ₹27,999
+price_string ₹0
+total_price_expected 28644
+to_be_removed_item_price 27999
+Updated price 645
+Total price Actual 645
+cart_items_price list[<selenium.webdriver.remote.webelement.WebElement (session="c8fd294823b543d27e75f2854ff12f7f", element="f.B6D05C0B2937BDF7CC1BC8C65019851E.d.ED17DEA2472E0D8B1A6924FFA3E0110B.e.142")>]
+price_string ₹645
+total_price_expected 645
+to_be_removed_item_price 645
