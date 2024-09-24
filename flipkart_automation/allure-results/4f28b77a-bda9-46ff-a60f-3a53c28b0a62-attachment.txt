@@ -1,2 +1,0 @@
-Items are----1
-expected_items Items are----2

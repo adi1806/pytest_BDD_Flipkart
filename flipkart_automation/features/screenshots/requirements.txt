@@ -1,5 +1,0 @@
-pytest
-pytest-bdd
-selenium
-openpyxl
-allure-pytest-bdd
